@@ -4,9 +4,12 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+I am a teaching assistant for:
 
-{% include base_path %}
+- Probabilistic Analysis, MS&E 220. Fall 2022. 
+
+<!-- {% include base_path %}
 
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
