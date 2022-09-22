@@ -24,7 +24,7 @@ Major Revision, **Random Matrices: Theory and Applications**
 
 Gaps of Summands of the Zeckendorf Lattice, 2020.<br />
 (In alphabetical order) Neelima Borade, Dexter Cai, David Z. Chang, Bruce Fang, Alex Liang, Steven J. Miller, and Wanqiao Xu.<br />
-[The Fibonacci Quarterly, 2020, Vol. 58 Is. 2.](https://www.fq.math.ca/Papers/58-2/miller11242019.pdf)
+**The Fibonacci Quarterly**, 2020, Vol. 58 Is. 2. [arXiv](https://arxiv.org/abs/1909.01935)
 
 Distribution of Eigenvalues of Random Real Symmetric Block Matrices, 2019.<br />
 (In alphabetical order) Keller Blackwell, Neelima Borade, Charles Devlin VI, Noah Luntzlara, Renyuan Ma, Steven J. Miller, Mengxi Wang, and Wanqiao Xu.<br />
