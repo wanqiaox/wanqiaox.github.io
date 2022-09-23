@@ -10,7 +10,7 @@ Reinforcement Learning
 
 Regret Bounds for Risk-Sensitive Reinforcement Learning, 2022.<br />
 (In alphabetical order) Osbert Bastani, Yecheng Jason Ma, Estelle Shen, and Wanqiao Xu.<br />
-To appear, **NeurIPS 2023**
+To appear, **NeurIPS 2022**
 
 Safely Bridging Offline and Online Reinforcement Learning, 2021.<br />
 Wanqiao Xu, Kan Xu, Hamsa Bastani, and Osbert Bastani.<br />
