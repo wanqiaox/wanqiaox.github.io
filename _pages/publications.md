@@ -9,7 +9,7 @@ Reinforcement Learning
 ======
 
 Regret Bounds for Risk-Sensitive Reinforcement Learning, 2022.<br />
-(In alphabetical order) Osbert Bastani, Yecheng Jason Ma, Estelle Shen, and Wanqiao Xu.<br />
+\*Osbert Bastani, Yecheng Jason Ma, Estelle Shen, and Wanqiao Xu.<br />
 To appear, **NeurIPS 2022**
 
 Safely Bridging Offline and Online Reinforcement Learning, 2021.<br />
@@ -19,13 +19,15 @@ Wanqiao Xu, Kan Xu, Hamsa Bastani, and Osbert Bastani.<br />
 Previous Publications in Probability and Number Theory
 ======
 Distribution of Eigenvalues of Matrix Ensembles arising from Wigner and Palindromic Toeplitz Blocks, 2021.<br />
-(In alphabetical order) Keller Blackwell, Neelima Borade, Arup Bose, Charles Devlin VI, Noah Luntzlara, Renyuan Ma, Steven J. Miller, Soumendu Sundar Mukherjee, Mengxi Wang, and Wanqiao Xu.<br />
+\*Keller Blackwell, Neelima Borade, Arup Bose, Charles Devlin VI, Noah Luntzlara, Renyuan Ma, Steven J. Miller, Soumendu Sundar Mukherjee, Mengxi Wang, and Wanqiao Xu.<br />
 Major Revision, **Random Matrices: Theory and Applications**
 
 Gaps of Summands of the Zeckendorf Lattice, 2020.<br />
-(In alphabetical order) Neelima Borade, Dexter Cai, David Z. Chang, Bruce Fang, Alex Liang, Steven J. Miller, and Wanqiao Xu.<br />
+\*Neelima Borade, Dexter Cai, David Z. Chang, Bruce Fang, Alex Liang, Steven J. Miller, and Wanqiao Xu.<br />
 **The Fibonacci Quarterly**, 2020, Vol. 58 Is. 2. [arXiv](https://arxiv.org/abs/1909.01935)
 
 Distribution of Eigenvalues of Random Real Symmetric Block Matrices, 2019.<br />
-(In alphabetical order) Keller Blackwell, Neelima Borade, Charles Devlin VI, Noah Luntzlara, Renyuan Ma, Steven J. Miller, Mengxi Wang, and Wanqiao Xu.<br />
+\*Keller Blackwell, Neelima Borade, Charles Devlin VI, Noah Luntzlara, Renyuan Ma, Steven J. Miller, Mengxi Wang, and Wanqiao Xu.<br />
 [arXiv](https://arxiv.org/abs/1908.03834)
+
+\**Author names in alphabetical order*
