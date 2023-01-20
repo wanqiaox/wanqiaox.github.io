@@ -6,7 +6,7 @@ author_profile: true
 ---
 I am a teaching assistant for:
 
-- Probabilistic Analysis, MS&E 220. Fall 2022. 
+- Fundamentals of Data Science: Prediction, Inference, Causality, MS&E 226. Winter 2023. 
 
 <!-- {% include base_path %}
 
