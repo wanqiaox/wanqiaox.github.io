@@ -11,8 +11,8 @@ Reinforcement Learning
 <a href="https://arxiv.org/abs/2211.15931" style="text-decoration: none;">Posterior Sampling for Continuing Environments</a>, 2022.<br />
 Wanqiao Xu, Shi Dong, and Benjamin Van Roy.<br />
 
-Uniformly Conservative Exploration in Reinforcement Learning, **AISTATS 2023**.<br />
-Wanqiao Xu, Kan Xu, Hamsa Bastani, and Osbert Bastani.<br />
+<a href="https://arxiv.org/abs/2110.13060" style="text-decoration: none;">Uniformly Conservative Exploration in Reinforcement Learning</a>, **AISTATS 2023**.<br />
+Wanqiao Xu, Jason Yecheng Ma, Kan Xu, Hamsa Bastani, and Osbert Bastani.<br />
 
 <a href="https://arxiv.org/abs/2210.05650" style="text-decoration: none;">Regret Bounds for Risk-Sensitive Reinforcement Learning</a>, **NeurIPS 2022**.<br />
 \*Osbert Bastani, Yecheng Jason Ma, Estelle Shen, and Wanqiao Xu.<br />
