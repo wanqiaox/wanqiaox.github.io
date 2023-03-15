@@ -8,7 +8,7 @@ author_profile: true
 Reinforcement Learning
 ======
 
-<a href="https://arxiv.org/abs/2211.15931" style="text-decoration: none;">Posterior Sampling for Continuing Environments</a>, 2022.<br />
+<a href="https://arxiv.org/abs/2211.15931" style="text-decoration: none;">Posterior Sampling for Continuing Environments</a>, 2023.<br />
 Wanqiao Xu, Shi Dong, and Benjamin Van Roy.<br />
 
 <a href="https://arxiv.org/abs/2110.13060" style="text-decoration: none;">Uniformly Conservative Exploration in Reinforcement Learning</a>, **AISTATS 2023**.<br />
