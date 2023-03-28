@@ -6,7 +6,7 @@ author_profile: true
 ---
 I am a teaching assistant for:
 
-- Fundamentals of Data Science: Prediction, Inference, Causality, MS&E 226. Winter 2023. 
+- <a href="https://web.stanford.edu/class/msande338/" style="text-decoration: none;">Reinforcement Learning, MS&E 338</a>. Spring 2023. 
 
 <!-- {% include base_path %}
 
