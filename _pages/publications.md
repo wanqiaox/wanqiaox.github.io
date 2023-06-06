@@ -7,6 +7,8 @@ author_profile: true
 
 Reinforcement Learning
 ======
+<a href="https://arxiv.org/abs/2305.11455" style="text-decoration: none;">Shattering the Agent-Environment Interface for Fine-Tuning Inclusive Language Models</a>, 2023.<br />
+Wanqiao Xu, Shi Dong, Dilip Arumugam, and Benjamin Van Roy.<br />
 
 <a href="https://arxiv.org/abs/2211.15931" style="text-decoration: none;">Posterior Sampling for Continuing Environments</a>, 2023.<br />
 Wanqiao Xu, Shi Dong, and Benjamin Van Roy.<br />
