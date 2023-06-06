@@ -21,7 +21,7 @@ Wanqiao Xu, Jason Yecheng Ma, Kan Xu, Hamsa Bastani, and Osbert Bastani.<br />
 
 Previous Publications in Probability and Number Theory
 ======
-Distribution of Eigenvalues of Matrix Ensembles arising from Wigner and Palindromic Toeplitz Blocks, 2021.<br />
+<a href="https://arxiv.org/abs/2102.05839" style="text-decoration: none;">Distribution of Eigenvalues of Matrix Ensembles arising from Wigner and Palindromic Toeplitz Blocks</a>, 2021.<br />
 \*Keller Blackwell, Neelima Borade, Arup Bose, Charles Devlin VI, Noah Luntzlara, Renyuan Ma, Steven J. Miller, Soumendu Sundar Mukherjee, Mengxi Wang, and Wanqiao Xu.<br />
 Major Revision, **Random Matrices: Theory and Applications**
 
