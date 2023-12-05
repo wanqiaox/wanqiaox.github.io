@@ -7,6 +7,9 @@ author_profile: true
 
 Reinforcement Learning
 ======
+<a href="https://arxiv.org/abs/2312.01057" style="text-decoration: none;">RLHF and IIA: Perverse Incentives</a>, 2023.<br />
+Wanqiao Xu, Shi Dong, Xiuyuan Lu, Grace Lam, Zheng Wen, and Benjamin Van Roy.<br />
+
 <a href="https://arxiv.org/abs/2305.11455" style="text-decoration: none;">Shattering the Agent-Environment Interface for Fine-Tuning Inclusive Language Models</a>, 2023.<br />
 Wanqiao Xu, Shi Dong, Dilip Arumugam, and Benjamin Van Roy.<br />
 
