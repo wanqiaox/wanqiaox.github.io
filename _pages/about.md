@@ -15,11 +15,11 @@ I'm a third-year Ph.D. student at Stanford University. I am fortunate to be advi
 
 Research Interests
 ======
-My research interest primarily lies in reinforcement learning. I aspire to design agents that learn to make decisions efficiently under complex, uncertain environments. Recently, I am also excited about designing efficient and principled methods for fine-tuning language models with human feedback. 
+My research interest primarily lies in reinforcement learning. I aspire to design agents that learn to make decisions efficiently under complex, uncertain environments. I am also excited about developing principled methods for fine-tuning language models with human feedback. 
 
 Professional Experience
 ======
-- Research Intern, Meta, 2023.
+- Research Intern, Meta AI, 2023.
 
 Contact
 ======
