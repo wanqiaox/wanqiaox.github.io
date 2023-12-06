@@ -17,7 +17,7 @@ Wanqiao Xu, Shi Dong, Dilip Arumugam, and Benjamin Van Roy.<br />
 Wanqiao Xu, Shi Dong, and Benjamin Van Roy.<br />
 
 <a href="https://arxiv.org/abs/2110.13060" style="text-decoration: none;">Uniformly Conservative Exploration in Reinforcement Learning</a>, **AISTATS 2023**.<br />
-Wanqiao Xu, Jason Yecheng Ma, Kan Xu, Hamsa Bastani, and Osbert Bastani.<br />
+Wanqiao Xu, Yecheng Jason Ma, Kan Xu, Hamsa Bastani, and Osbert Bastani.<br />
 
 <a href="https://arxiv.org/abs/2210.05650" style="text-decoration: none;">Regret Bounds for Risk-Sensitive Reinforcement Learning</a>, **NeurIPS 2022**.<br />
 \*Osbert Bastani, Yecheng Jason Ma, Estelle Shen, and Wanqiao Xu.<br />
