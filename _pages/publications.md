@@ -7,13 +7,19 @@ author_profile: true
 
 Reinforcement Learning
 ======
-<a href="https://arxiv.org/abs/2312.01057" style="text-decoration: none;">RLHF and IIA: Perverse Incentives</a>, 2023.<br />
+<a href="https://arxiv.org/abs/2407.12178" style="text-decoration: none;">Exploration Unbound</a>, **RLC 2024 Finding the Frame Workshop**.<br />
+Dilip Arumugam\*, Wanqiao Xu\*, and Benjamin Van Roy.<br />
+
+<a href="https://arxiv.org/abs/2312.03814" style="text-decoration: none;">Pearl: A Production-ready Reinforcement Learning Agent</a>, **Journal of Machine Learning Research**.<br />
+Zheqing Zhu, Rodrigo de Salvo Braz, Jalaj Bhandari, Janiel Jiang, Yi Wan, Yonathan Efroni, Liyuan Wang, Ruiyang Xu, Hongbo Guo, Alex Nikulkov, Dmytro Korenkevych, Urun Dogan, Frank Cheng, Zheng Wu, and Wanqiao Xu.<br />
+
+<a href="https://arxiv.org/abs/2312.01057" style="text-decoration: none;">RLHF and IIA: Perverse Incentives</a>, **ICML 2024 MHFAIA Workshop**.<br />
 Wanqiao Xu, Shi Dong, Xiuyuan Lu, Grace Lam, Zheng Wen, and Benjamin Van Roy.<br />
 
 <a href="https://arxiv.org/abs/2305.11455" style="text-decoration: none;">Shattering the Agent-Environment Interface for Fine-Tuning Inclusive Language Models</a>, 2023.<br />
 Wanqiao Xu, Shi Dong, Dilip Arumugam, and Benjamin Van Roy.<br />
 
-<a href="https://arxiv.org/abs/2211.15931" style="text-decoration: none;">Posterior Sampling for Continuing Environments</a>, 2023.<br />
+<a href="https://arxiv.org/abs/2211.15931" style="text-decoration: none;">Posterior Sampling for Continuing Environments</a>, **RLC 2024**.<br />
 Wanqiao Xu, Shi Dong, and Benjamin Van Roy.<br />
 
 <a href="https://arxiv.org/abs/2110.13060" style="text-decoration: none;">Uniformly Conservative Exploration in Reinforcement Learning</a>, **AISTATS 2023**.<br />
