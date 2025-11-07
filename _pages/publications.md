@@ -7,6 +7,9 @@ author_profile: true
 
 Reinforcement Learning
 ======
+<a href="https://arxiv.org/abs/2506.10341" style="text-decoration: none;">Provably Learning from Language Feedback</a>.<br />
+Wanqiao Xu, Allen Nie, Ruijie Zheng, Aditya Modi, Adith Swaminathan, and Ching-An Cheng.<br />
+
 <a href="https://arxiv.org/abs/2407.12178" style="text-decoration: none;">Exploration Unbound</a>.<br />
 Dilip Arumugam\*, Wanqiao Xu\*, and Benjamin Van Roy.<br />
 
