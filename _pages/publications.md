@@ -22,7 +22,7 @@ Wanqiao Xu, Shi Dong, Xiuyuan Lu, Grace Lam, Zheng Wen, and Benjamin Van Roy.<br
 <a href="https://arxiv.org/abs/2305.11455" style="text-decoration: none;">Shattering the Agent-Environment Interface for Fine-Tuning Inclusive Language Models</a>, 2023.<br />
 Wanqiao Xu, Shi Dong, Dilip Arumugam, and Benjamin Van Roy.<br />
 
-<a href="https://arxiv.org/abs/2211.15931" style="text-decoration: none;">Posterior Sampling for Continuing Environments</a>, **RLC 2024**. <b style='color:red;'>Outstanding paper on the theory of RL.</b><br />
+<a href="https://arxiv.org/abs/2211.15931" style="text-decoration: none;">Posterior Sampling for Continuing Environments</a>, **RLC 2024** <b style='color:red;'>(Outstanding paper on the theory of RL)</b>.<br />
 Wanqiao Xu, Shi Dong, and Benjamin Van Roy.<br />
 
 <a href="https://arxiv.org/abs/2110.13060" style="text-decoration: none;">Uniformly Conservative Exploration in Reinforcement Learning</a>, **AISTATS 2023**.<br />
