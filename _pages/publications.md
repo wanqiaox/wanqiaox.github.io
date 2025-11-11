@@ -7,7 +7,7 @@ author_profile: true
 
 Reinforcement Learning
 ======
-<a href="https://arxiv.org/abs/2506.10341" style="text-decoration: none;">Provably Learning from Language Feedback</a>, 2025.<br />
+<a href="https://arxiv.org/abs/2506.10341" style="text-decoration: none;">Provably Learning from Language Feedback</a>, 2025 <b style='color:red;'>(Best paper in EXAIT@ICML 2025)</b>.<br />
 Wanqiao Xu, Allen Nie, Ruijie Zheng, Aditya Modi, Adith Swaminathan, and Ching-An Cheng.<br />
 
 <a href="https://arxiv.org/abs/2407.12178" style="text-decoration: none;">Exploration Unbound</a>, 2024.<br />
