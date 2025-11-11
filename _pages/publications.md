@@ -16,7 +16,7 @@ Dilip Arumugam\*, Wanqiao Xu\*, and Benjamin Van Roy.<br />
 <a href="https://arxiv.org/abs/2312.03814" style="text-decoration: none;">Pearl: A Production-ready Reinforcement Learning Agent</a>, **Journal of Machine Learning Research**, 2024.<br />
 Zheqing Zhu, Rodrigo de Salvo Braz, Jalaj Bhandari, Janiel Jiang, Yi Wan, Yonathan Efroni, Liyuan Wang, Ruiyang Xu, Hongbo Guo, Alex Nikulkov, Dmytro Korenkevych, Urun Dogan, Frank Cheng, Zheng Wu, and Wanqiao Xu.<br />
 
-<a href="https://arxiv.org/abs/2312.01057" style="text-decoration: none;">RLHF and IIA: Perverse Incentives</a>, 2023.<br />
+<a href="https://arxiv.org/abs/2312.01057" style="text-decoration: none;">RLHF and IIA: Perverse Incentives</a>, 2023 <b style='color:orange;'>(Oral in Models of Human Feedback for AI Alignment@ICML 2024)</b>.<br />
 Wanqiao Xu, Shi Dong, Xiuyuan Lu, Grace Lam, Zheng Wen, and Benjamin Van Roy.<br />
 
 <a href="https://arxiv.org/abs/2305.11455" style="text-decoration: none;">Shattering the Agent-Environment Interface for Fine-Tuning Inclusive Language Models</a>, 2023.<br />
